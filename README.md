@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 👨‍🔬 I’m currently working on the gut microbiome of newborns at UMR 1280 PhAN in Nantes (France).  
-🧬 Using bioinformatics tools, I analyze all the genetic material present in the stools of newborns to study the genetic and functional diversity of microbial communities.  
-📫 If you are interested in implementing metagenomic analyses in your project, please contact me at the following e-mail address: maxime.naour@inrae.fr
+🧬 Focus on genetic and functional diversity of microbial communities.  
+📫 E-mail address: maxime.naour@inrae.fr
 
 <!--
 **MaximeNaour/MaximeNaour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
